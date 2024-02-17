@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/flight_booking/static/css/main.749719fd.css",
+    "main.js": "/flight_booking/static/js/main.9cb24e36.js",
+    "static/media/01.jpg": "/flight_booking/static/media/01.7570cc9f454f2316822d.jpg",
+    "static/media/plan1.jpg": "/flight_booking/static/media/plan1.2d7fc0da90e2c713585f.jpg",
+    "static/media/plan2.jpg": "/flight_booking/static/media/plan2.e0a730a5064a84765fd0.jpg",
+    "static/media/plane.png": "/flight_booking/static/media/plane.f60394187962cb0202f0.png",
+    "static/media/sky3.jpg": "/flight_booking/static/media/sky3.0afdcab9b3bcc59fbcda.jpg",
+    "static/media/plan3.jpg": "/flight_booking/static/media/plan3.81a5931dd6aa8735a5bc.jpg",
+    "static/media/wallpaper.jpg": "/flight_booking/static/media/wallpaper.13f93f91e5b47c56f643.jpg",
+    "static/media/02.jpg": "/flight_booking/static/media/02.6f722b43b24021d10c04.jpg",
+    "static/media/03.jpg": "/flight_booking/static/media/03.054b6b76dd4a40379e34.jpg",
+    "static/media/abs.png": "/flight_booking/static/media/abs.e440d85aab7bc6ffcda8.png",
+    "static/media/mask.png": "/flight_booking/static/media/mask.140921d640a527083425.png",
+    "index.html": "/flight_booking/index.html",
+    "main.749719fd.css.map": "/flight_booking/static/css/main.749719fd.css.map",
+    "main.9cb24e36.js.map": "/flight_booking/static/js/main.9cb24e36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.749719fd.css",
+    "static/js/main.9cb24e36.js"
+  ]
+}
