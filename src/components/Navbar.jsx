@@ -10,10 +10,8 @@ const Navbar = () => {
 
     const navItems = navLinks.map((link, idx) => {
         return (
-            <li key={idx}>
-                {
-                    <a href={link.href} className={`${link.label === 'home' ? 'text-blue-500' : 'text-white'} p-1 capitalize font-semibold text-lg`}>{link.label}</a>
-                }
+            <li key={idx} className={`${link.label === 'home' ? 'text-blue-500' : 'text-white'} p-1 capitalize font-semibold text-lg`}>
+                {link.label}
             </li>
         )
     })
